@@ -18,4 +18,4 @@ addToCartButtonsDOM.forEach(addToCartButtonDOM =>{
         </div>
       `);
 });
-}); 
+});  
